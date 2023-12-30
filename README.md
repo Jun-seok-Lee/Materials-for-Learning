@@ -11,6 +11,10 @@
 
 * [Pytorch Tutorial by yunjey](https://github.com/yunjey/pytorch-tutorial)
 
+# Audio
+
+* [Audio Tutorial by Huggingface](https://huggingface.co/learn/audio-course/chapter0/introduction)
+
 # RL
 
 * [모두를 위한 RL 강의 by 김성훈 교수님](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
