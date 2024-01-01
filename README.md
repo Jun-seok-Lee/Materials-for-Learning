@@ -22,3 +22,7 @@
 # Web
 
 * [Web Dev for Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners?WT.mc_id=academic-0000-abartolo)
+
+# Algorithms
+
+* [백준 문제집 by tony9402](https://github.com/tony9402/baekjoon)
