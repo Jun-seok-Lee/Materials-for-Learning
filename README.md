@@ -1,5 +1,5 @@
 # TL;DR
-이 레포지토리는 공부하면서 도움이 되었던 강의/블로그 등을 모아 놓은 공간입니다.
+이 레포지토리는 공부하면서 도움이 되었던 강의/블로그/책 등을 모아 놓은 공간입니다.
 
 # Statistics & Math
 
@@ -14,6 +14,12 @@
 * [Pytorch Tutorial by yunjey](https://github.com/yunjey/pytorch-tutorial)
 
 * [Huggingface Notebooks](https://huggingface.co/docs/transformers/main/en/community)
+
+* [밑바닥부터 시작하는 딥러닝 1](https://product.kyobobook.co.kr/detail/S000001057805)
+
+* [파이토치 한국어 튜토리얼](https://tutorials.pytorch.kr/beginner/basics/intro.html)
+
+* [Pytorch Official Tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
 
 # Audio
 
