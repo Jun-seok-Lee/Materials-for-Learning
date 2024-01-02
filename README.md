@@ -7,6 +7,8 @@
 
 * [인공지능을 위한 수학](https://github.com/freelec/ai-math-book)
 
+* [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)
+
 # 딥러닝
 
 * [Pytorch Tutorial by yunjey](https://github.com/yunjey/pytorch-tutorial)
