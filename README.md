@@ -9,7 +9,7 @@
 
 * [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)
 
-# 딥러닝
+# Deep Learning
 
 * [Pytorch Tutorial by yunjey](https://github.com/yunjey/pytorch-tutorial)
 
