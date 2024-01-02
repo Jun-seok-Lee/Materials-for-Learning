@@ -13,6 +13,8 @@
 
 * [Pytorch Tutorial by yunjey](https://github.com/yunjey/pytorch-tutorial)
 
+* [Huggingface Notebooks](https://huggingface.co/docs/transformers/main/en/community)
+
 # Audio
 
 * [Audio Tutorial by Huggingface](https://huggingface.co/learn/audio-course/chapter0/introduction)
