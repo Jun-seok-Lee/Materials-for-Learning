@@ -1,4 +1,4 @@
-# Courses
+# TL;DR
 이 레포지토리는 공부하면서 도움이 되었던 강의/블로그 등을 모아 놓은 공간입니다.
 
 # Statistics & Math
