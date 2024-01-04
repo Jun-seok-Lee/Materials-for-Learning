@@ -33,7 +33,7 @@
 
 * [코랩 런타임 연결 끊김 방지 방법 by 테디노트](https://teddylee777.github.io/colab/google-colab-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%97%B0%EA%B2%B0%EB%81%8A%EA%B9%80%EB%B0%A9%EC%A7%80/)
 
-  Fine-tuning 시간이 오래 걸리면(기억상 4~5시간?) 코랩 런타임이 끊기는데, 어떻게 방지할 수 있는지 잘 정리된 블로그라 추천합니다.
+  Colab 무료 버전 기준, Fine-tuning 시간이 오래 걸리면(기억상 4~5시간?) 런타임이 끊기는데, 이 때 런타임 연결 끊김 방지 방법을 알려줘서 추천합니다.
 
 # Audio(음성)
 
