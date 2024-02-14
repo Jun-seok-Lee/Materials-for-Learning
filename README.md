@@ -55,6 +55,8 @@
 
   강화학습 알고리즘의 Taxonomy를 알고싶은 분들께 추천합니다.
 
+* [Deep RL course by Huggingface](https://huggingface.co/learn/deep-rl-course/unit1/rl-framework)
+
 # Web(웹)
 
 * [Web Dev for Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners?WT.mc_id=academic-0000-abartolo)
