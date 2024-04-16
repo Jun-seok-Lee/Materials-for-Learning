@@ -35,6 +35,8 @@
 
   Colab 무료 버전 기준, Fine-tuning 시간이 오래 걸리면(기억상 4~5시간?) 런타임이 끊기는데, 이 때 런타임 연결 끊김 방지 방법을 알려줘서 추천합니다.
 
+* [Mixture of Experts](https://huggingface.co/blog/moe)
+
 # Audio(음성)
 
 * [Audio Tutorial by Huggingface](https://huggingface.co/learn/audio-course/chapter0/introduction)
