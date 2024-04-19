@@ -15,8 +15,6 @@
 
 * [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)
 
-  이건 난이도가 상당히 있습니다.
-
 # Deep Learning(딥러닝)
 
 * [Pytorch Tutorial by yunjey](https://github.com/yunjey/pytorch-tutorial)
