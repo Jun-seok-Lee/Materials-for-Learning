@@ -57,12 +57,6 @@
 
 * [Deep RL course by Huggingface](https://huggingface.co/learn/deep-rl-course/unit1/rl-framework)
 
-* [IsaacGym Environments](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs)
-
-* [Decision Transformer](https://github.com/kzl/decision-transformer)
-
-* [legged gym based on IsaacGym](https://github.com/leggedrobotics/legged_gym)
-
 # Web(웹)
 
 * [Web Dev for Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners?WT.mc_id=academic-0000-abartolo)
