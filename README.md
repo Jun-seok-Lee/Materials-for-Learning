@@ -15,6 +15,10 @@
 
 * [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)
 
+* [고등학교 수학 by 수악중독](https://mathjk.tistory.com/3584)
+
+  벡터 미적분 전 고등학교 수학을 복습했던 컨텐츠입니다.
+  
 # Deep Learning(딥러닝)
 
 * [Pytorch Tutorial by yunjey](https://github.com/yunjey/pytorch-tutorial)
