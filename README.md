@@ -16,8 +16,6 @@
 * [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)
 
 * [고등학교 수학 by 수악중독](https://mathjk.tistory.com/3584)
-
-  벡터 미적분 전 고등학교 수학을 복습했던 컨텐츠입니다.
   
 # Deep Learning(딥러닝)
 
@@ -38,6 +36,8 @@
   Colab 무료 버전 기준, Fine-tuning 시간이 오래 걸리면(기억상 4~5시간?) 런타임이 끊기는데, 이 때 런타임 연결 끊김 방지 방법을 알려줘서 추천합니다.
 
 * [Mixture of Experts](https://huggingface.co/blog/moe)
+
+* [Colab Pro+ A100 GPU access Issue](https://github.com/googlecolab/colabtools/issues/4505)
 
 # Audio(음성)
 
